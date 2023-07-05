@@ -1,0 +1,57 @@
+body{
+    background-color: antiquewhite;
+}
+#logo{
+    font-size: 1.5rem;
+}
+.nav-bar{
+    display: flex;
+    gap: 1rem;
+}
+.nav-bar button{
+    position: absolute;
+    right: 10px;
+    top: 12px
+}
+.nav-bar input{
+    position: absolute;
+    right: 70px;
+    top: 12px
+}
+.sub-container-1{
+    float: left;
+    margin-left: 50px;
+}
+.codecademy-img{
+    height: 40%;
+    width: 40%;
+    float: left;
+    margin: 50px 50px;
+    box-shadow: -17px 17px 18px;
+}
+.sub-container p{
+    margin-bottom: 0px;
+}
+.sub-container-1 input{
+    width: 86%;
+    padding: 5px;
+}
+.sub-container-2{
+   margin:10px;
+}
+.sub-container-2 p{
+ font-weight: bolder;
+}
+.sub-container-2 button{
+    padding: 10px 15px;
+    margin: 0px 5px;
+}
+
+.btn{
+    color: #ffff;
+    margin-top: 20px;
+    background-color: blue;
+    padding: 7px 19px;
+    border-radius: 8px;
+}
+
